@@ -1,7 +1,7 @@
 #### Hi there 👋 Welcome to my Github profile
 ### About me
 
-I am Sook Yan, currently working as a frontend developer at [Agmo Studio Sdn. Bhd.](https://www.agmostudio.com/) I am also a mathematics graduate from [Universiti Teknologi Malaysia](https://www.utm.my/).
+I am Sook Yan, currently working as a frontend developer. I am also a mathematics graduate from [Universiti Teknologi Malaysia](https://www.utm.my/).
 
 
 ### Don't be a stranger. :grin:
