@@ -31,8 +31,8 @@ I am Sook Yan, currently working as a frontend developer. I am also a mathematic
 
 
 
-### Github Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=syhue)
+<!-- ### Github Stats -->
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=syhue) -->
 
 
 
